@@ -1,10 +1,8 @@
-greetings=input("Say greetings: ")
-if "hello" in greetings:
-    print("$0")
-elif "h" in greetings:
-    print("$20")
-else:
-    print("$100")
-
-
-    
+camel=input("Input name in Camelcase: ")
+print("Corresponding name in snake_case: ",end="")
+for x in camel:
+    if x.islower():
+        print(x, end="")
+    else:
+        print("_"+x.lower(),end="")
+print("")
