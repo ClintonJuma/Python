@@ -6,4 +6,3 @@ while coke_amount>0:
         coke_amount-=coin_inserted
 customers_change=abs(coke_amount)
 print("change: ", customers_change)
-
