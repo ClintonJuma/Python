@@ -1,11 +1,8 @@
-plate = input("Plate: ")
-def main():
+greetings=input("Say greetings: ")
+if "hello" in greetings:
+    print("$0")
+elif "h" in greetings:
+    print("$20")
+else:
+    print("$100")
 
-    if is_valid(plate):
-        print("Valid")
-    else:
-        print("Invalid")
-
-
-def is_valid(s):
-    if plate
