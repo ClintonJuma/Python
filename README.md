@@ -1,4 +1,3 @@
-##
-DATA SCIENC:
-Python, SQL
-Pandas,numpy,matplotlib,seaborn libraries
+Big Data,small world🌍
+Passionate data analyst 📊and scientist to be😂...
+
