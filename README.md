@@ -1,2 +1,4 @@
 ##
-Mostly Python for data analysis...
+DATA SCIENCE PACKAGES
+Python, SQL
+Pandas,numpy,matplotlib,seaborn libraries
